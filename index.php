@@ -7,11 +7,7 @@ if ($age >= 18 {
         $answer= Máš smůlu chlapče, alkohol a tabák prodáváme osobám starší 18 let.
         $imgURL= <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcs-cz.facebook.com%2Fradsejknihu%2F&psig=AOvVaw0LwkG0hUd692XF93imkPkN&ust=1583309639172000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDx05vu_ecCFQAAAAAdAAAAABAa">
     }
-    
-
-
-
-    
+?>
 <!DOCTYPE html>
  <html lang="en">
  <head>
